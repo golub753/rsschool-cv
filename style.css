@@ -26,3 +26,7 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #000000;
 }
+.main-photo {
+    width: 100%;
+    height: fit-content;
+}
